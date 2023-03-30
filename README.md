@@ -1,7 +1,6 @@
 # Senior-Research-SQLIA
-This is my senior research about comparing the different detection and prevention methods for SQLIA
-SQL Injection Attacks are a threat to databases around the world. While they have been a simple attack to prevent methods should be tested
-to make sure that a company is not using a inerior method.
+This is my senior research about comparing the different detection and prevention methods for SQLIA.
+SQL Injection Attacks are a threat to databases around the world. While they have been a simple attack to prevent methods should be tested to make sure that a company is not using a inerior method.
 
 To test these methods they will be tested on:
     Detection and prevention time.
